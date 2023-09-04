@@ -6,7 +6,7 @@ This simple HTML webpage fetches and displays programming jokes from the JokeAPI
 [snap](joke.png)
 
 ## Demo 💻
-[Ctrl+Alt+Delight😜]()
+[Ctrl+Alt+Delight😜](https://alokverma18.github.io/Programming-Jokes/)
 
 Enjoy a good laugh with your fellow programmers!
 

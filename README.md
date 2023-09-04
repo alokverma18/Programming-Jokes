@@ -3,7 +3,8 @@
 This simple HTML webpage fetches and displays programming jokes from the JokeAPI. Each time you click the "Another one!" button, a new joke will appear on the page.
 
 ## Snap 🖼️
-[snap](snap.png)
+![snap](snap.png)
+
 
 ## Demo 💻
 [Ctrl+Alt+Delight😜](https://alokverma18.github.io/Programming-Jokes/)
